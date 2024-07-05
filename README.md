@@ -5,9 +5,9 @@ Fiz este projeto com base em aprender a usar uma API, usando de exemplo a Marvel
 ## Observações
 
 - Flutter:
-    - Estou usando flutter na versão 3.22.2 e o dart no 3.4.3
-    - Use o Flutter "pub get no prompt" de comando após clonar o repositório na sua máquina
-        - Caso use uma versão do flutter inferior, pode ser que a extensão "google fonts" não funcione
+    - Estou usando flutter na versão 3.22.2 e o dart no 3.4.3;
+    - Use o Flutter "pub get no prompt" de comando após clonar o repositório na sua máquina;
+        - Caso use uma versão do flutter inferior, pode ser que a extensão "google fonts" não funcione.
 
 ## Chaves de Acesso (Public e Private Keys)
 
